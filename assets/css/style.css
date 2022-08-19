@@ -32,7 +32,7 @@
 }
 
 a {
-  color: black;
+  color: green;
   text-decoration: none;
   transition: color 0.1s;
 }
@@ -78,5 +78,5 @@ li {
 }
 
 li:nth-child(odd) {
-  background-color: #dfdae7;
+  background-color: #CDFFCD;
 }
